@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group>
+
+        <item
+            android:id="@+id/arabic_words"
+            android:icon="@drawable/ic_baseline_format_list_bulleted_24"
+            android:title="Слова" />
+
+        <item
+            android:id="@+id/quran"
+            android:icon="@drawable/ic_baseline_menu_book_24"
+            android:title="Чтение Корана" />
+
+        <item
+            android:id="@+id/grammar"
+            android:icon="@drawable/ic_baseline_edit_note_24"
+            android:title="Грамматика" />
+
+        <item
+            android:id="@+id/about_app"
+            android:icon="@drawable/ic_icons8_info"
+            android:title="О приложении" />
+    </group>
+
+
+</menu>
